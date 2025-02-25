@@ -1,4 +1,4 @@
-# site acessivel tropicalida_dalton
+# site acessivel tropicalia_dalton
 # sobre
 Refatoração de um site implementando recursos de acessibilidade no HTML, CSS e JS
 ## recursos de acessibilidade
