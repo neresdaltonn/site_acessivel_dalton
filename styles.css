@@ -165,6 +165,8 @@ h2 {
     display: none;
 }
 
+/*alto contraste*/
+
 .alto-contraste{
     background-color: var(--alto-contraste-fundo);
     color: var(--alto-contraste-texto);
